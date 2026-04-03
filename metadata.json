@@ -1,0 +1,5 @@
+{
+  "name": "X-Agent Command Center",
+  "description": "A local autonomous agent for X (Twitter) with Telegram remote control and Ollama AI.",
+  "requestFramePermissions": []
+}
